@@ -23,6 +23,10 @@ color:white;
 display:flex;
 justify-content:center;
 align-items: center;}
+  
+body{
+    font-family:'Poppins', sans-serif;
+}
 
 .escola-conteudo{
  width:35%;
